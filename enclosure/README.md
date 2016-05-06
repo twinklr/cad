@@ -17,5 +17,5 @@ Speed 10, Power 35/30
 
 ### Acrylic
 
-Speed 18, Power 35/32.
+Speed 18, Power 35/32  
 Engrave at Power 20, speed 200.
