@@ -2,10 +2,11 @@
 
 Files for the final enclosure for Twinklr, supplied as both DXF and Illustrator v3 files.
 
-* `acrylic` to be cut from 3mm Acrylic.
-* `leftright` is to be cut from 6mm laserply.
+* `acrylic.svg` to be cut from 3mm Acrylic.
+* `leftright.svg` is to be cut from 6mm laserply.
 * `twinklr-enclosure.iges` is an IGES CAD file for the whole case, exported
   from Fusion 360.
+* DXF files also included for reference.
 
 ## Lasercutter settings
 
